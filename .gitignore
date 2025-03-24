@@ -1,5 +1,4 @@
-*.csv
-*.xlsx
+*.ucs
 *.h5
 *.pkl
 *.db
